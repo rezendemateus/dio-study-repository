@@ -1,2 +1,2 @@
 # dio-study-repository
- DIO bootcamp study repository
+Repository created to store study projects during bootcamp at DIO.
